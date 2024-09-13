@@ -36,10 +36,6 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
   - [Table of Contents](#table-of-contents)
   - [LLM-generated Misinformation Detection](#misinformation-detection)
   - [Datasets \& Benchmark](#datasets--benchmark)
-    - [📑Papers](#papers-4)
-    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-5)
-    - [📚Resource📚](#resource)
-    - [Other](#other-5)
   - [Scholars](#-scholars-)
   - [Author](#author)
 
