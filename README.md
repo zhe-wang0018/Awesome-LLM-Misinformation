@@ -6,11 +6,6 @@
 <a href=""> <img src="https://img.shields.io/github/issues/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub issues"></a>
 <a href=""> <img src="https://img.shields.io/github/last-commit/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub Last commit"></a>
 </p>
-<div align="center">
-
-English | [中文](README_cn.md)
-
-</div>
 
 ## 🤗Introduction
 
