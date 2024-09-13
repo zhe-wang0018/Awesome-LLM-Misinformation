@@ -56,12 +56,14 @@ We've curated a collection of the latest 😋, most comprehensive 😎, and most
 
 ### Papers of intended misinformation
 
-| Date  |    Type    |          Title           |                                URL                                |
-|:-----:|:----------:|:------------------------:|:-----------------------------------------------------------------:|
-| 23.07 | Repository | llm-hallucination-survey | [link](https://github.com/HillZhang1999/llm-hallucination-survey) |
-| 23.10 | Repository |  LLM-Factuality-Survey   |   [link](https://github.com/wangcunxiang/LLM-Factuality-Survey)   |
-| 23.10 | Tutorials  |    Awesome-LLM-Safety    |       [link](https://github.com/ydyjya/Awesome-LLM-Safety)        |
 
+| Date  |           Institute            | Publication |                                                                    Paper                                                                     |
+|:-----:|:------------------------------:|:-----------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+| 23.11 |      Cornell University        |  NAACL2024  |                         [Adapting Fake News Detection to the Era of Large Language Models](https://arxiv.org/abs/2311.04917)                 |
+| 23.09 | Chinese Academy of Science     |   AAAI2024  | [Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection](https://arxiv.org/abs/2309.12247)              |
+| 24.05 | Hong Kong Baptist University   |    WWW2024  |         [Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom](https://arxiv.org/abs/2405.03371)     |
+| 24.05 | Chinese Academy of Sciences    |    arxiv    |    [Let Silence Speak: Enhancing Fake News Detection with Generated Comments from Large Language Models](https://arxiv.org/abs/2405.16631)   |
+| 24.02 | City University of Hong Kong   |   ACL2024   |    [TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection](https://arxiv.org/abs/2402.07776)   |
 
 ---
 ## Datasets & Benchmark
